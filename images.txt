@@ -1,4 +1,2 @@
-nginx
-kasmweb/nginx:1.25.3
-xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 laradock/php-fpm:7.4
+--platform=linux/arm64 laradock/workspace:7.4
