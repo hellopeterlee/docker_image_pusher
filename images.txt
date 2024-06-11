@@ -1,2 +1,4 @@
 --platform=linux/arm64 laradock/php-fpm:7.4
+--platform=linux/arm64 laradock/php-fpm:8.2
 --platform=linux/arm64 laradock/workspace:7.4
+--platform=linux/arm64 laradock/workspace:8.2
